@@ -1,5 +1,5 @@
 # T495S-Hackintosh
-This repo contains my EFI made for the Lenovo T495S Sequoia Hackintosh
+This repo contains my EFI made for the Lenovo T495S Sequoia 15.3.1 Hackintosh
 
 <img width="324" height="514" alt="image" src="https://github.com/user-attachments/assets/09639efe-32bd-4855-84b4-680c46cefaaa" />
 
