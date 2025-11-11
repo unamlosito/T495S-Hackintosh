@@ -4,7 +4,7 @@ This repo contains my EFI made for the Lenovo T495S Sequoia Hackintosh
 <img width="324" height="514" alt="image" src="https://github.com/user-attachments/assets/09639efe-32bd-4855-84b4-680c46cefaaa" />
 
 ## Opencore version
-Opencore V 1.0.5 has been used
+Opencore V 1.0.5 by Acidanthera
 
 ## Kext list
 | Kext | Version |
@@ -31,5 +31,29 @@ Opencore V 1.0.5 has been used
 | VoodooI2CELAN | NA |
 | VoodooPS2Controller | 2.3.7 |
 
+## SMBIOS Generation
+SMBIOS is **not** already included in **config.plist** .
+In order to generate one (alongside with the other parameters necessary) use the following tool: **GenSMBIOS** by CorpNewt, Torsten [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+## SSDT Generation
+SSDTs have been generated using SSDTTime tool by CorpNewt, im-not-a-dev, Izhoang2801 [SSDTTime](https://github.com/corpnewt/SSDTTime)
+
+## Drivers
+Drivers refer to Dortania [guide](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#firmware-drivers)
+
+## What's working
+* Touchpad - keyboard
+* Audio
+* Wifi
+* Brightness leveling (using [BetterDisplay](https://github.com/waydabber/BetterDisplay) app)
+* Trackball
+* Touchpad keys
+* USBs
+* Webcam
+* Microphone
+
+## What's not working
+* Bluetooth
+* You tell me
 
 > Use of macOS and all Apple software (including apps and services) constitutes full acceptance of and strict adherence to Apple Inc.'s current Terms of Service (ToS) and End-User License Agreements (EULA). The user is solely responsible for compliance.
