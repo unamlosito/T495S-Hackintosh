@@ -13,7 +13,7 @@ This repo contains my EFI made for the **Lenovo T495S** **Sequoia 15.3.1** Hacki
 
 
 ## Opencore version
-Opencore V-**1.0.5** by Acidanthera
+Opencore V-**1.0.5** by [Acidanthera](https://github.com/acidanthera)
 
 ## Kext list
 | Kext | Version |
