@@ -67,4 +67,6 @@ Drivers refer to **Dortania** [guide](https://dortania.github.io/OpenCore-Instal
 * Bluetooth
 * You tell me
 
+> Note: USB mapping has not been done. This probably is the reason of bluetooth not working. Also USBs are recognizes as 2.0. Needs to be done, too lazy to do that
+
 > Use of macOS and all Apple software (including apps and services) constitutes full acceptance of and strict adherence to Apple Inc.'s current Terms of Service (ToS) and End-User License Agreements (EULA). The user is solely responsible for compliance.
