@@ -42,7 +42,7 @@ Opencore V-**1.0.5** by [Acidanthera](https://github.com/acidanthera)
 
 ## SMBIOS Generation
 SMBIOS is **not** already included in **config.plist** .
-In order to generate one (alongside with the other parameters necessary) use the following tool: **GenSMBIOS** by CorpNewt, Torsten [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+In order to generate one (alongside with the other necessary parameters) use the following tool: **GenSMBIOS** by CorpNewt, Torsten [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 ## SSDT Generation
 SSDTs have been generated using **SSDTTime** tool by CorpNewt, im-not-a-dev, Izhoang2801 [SSDTTime](https://github.com/corpnewt/SSDTTime)
